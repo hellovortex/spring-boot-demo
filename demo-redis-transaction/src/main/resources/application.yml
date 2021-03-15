@@ -1,0 +1,9 @@
+server:
+  port: 5399
+spring:
+  redis:
+    host: 192.168.50.170
+    port: 6379
+    password: fw_redis@123
+    timeout: 3000
+
